@@ -1,5 +1,5 @@
 {
-  "name": "gsearch",
+  "name": "gosearch",
   "version": "1.0.0",
   "description": "Search google from terminal / cmd",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "global"
   ],
   "bin": {
-    "gsearch": "bin/gsearch.js"
+    "gosearch": "bin/gosearch.js"
   },
   "author": "Khalid Awwad",
   "license": "ISC",
@@ -23,6 +23,6 @@
   },
   "repository" :{
     "type" : "git",
-    "url" : "https://github.com/khalidawwad/gsearch.git"
+    "url" : "https://github.com/khalidawwad/gosearch.git"
   }
 }
