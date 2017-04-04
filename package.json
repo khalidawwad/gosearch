@@ -1,0 +1,24 @@
+{
+  "name": "gsearch",
+  "version": "1.0.0",
+  "description": "Search google from terminal / cmd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Google",
+    "search",
+    "terminal",
+    "global"
+  ],
+  "bin": {
+    "gsearch": "bin/gsearch.js"
+  },
+  "author": "Khalid Awwad",
+  "license": "ISC",
+  "dependencies": {
+    "open": "0.0.5",
+    "process": "^0.11.9"
+  }
+}
