@@ -20,5 +20,9 @@
   "dependencies": {
     "open": "0.0.5",
     "process": "^0.11.9"
+  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/khalidawwad/gsearch.git"
   }
 }
