@@ -1,6 +1,6 @@
 {
   "name": "gosearch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Search google from terminal / cmd",
   "main": "index.js",
   "scripts": {
